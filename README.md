@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jeffrey</h1>
-<h3 align="center">Senior Game Programming Student at Champlain College</h3>
+<h1 align="center">Hi, I'm Jeffrey 👋</h1>
+
+I'm currently a fourth-year student at Champlain College, working towards my Bachelor of Science degree in Game Programming. My fascination with making games started back in high school when I took my first game programming class. Even though I didn't have much technical know-how, my love for video games inspired me to learn more. This journey led me to Champlain College, where I'm chasing my dream of creating games.
 
 - 🔭 I’m currently working on [Poly-Vinyl Pests! [PVP!]](https://jeffreypopek.site/poly-vinyl-pests)
 
 - 👨‍💻 All of my projects are available at [https://jeffreypopek.site/](https://jeffreypopek.site/)
 
 - 📫 How to reach me **jeffreypopek@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/10Zy3fMH5zdNMaNAfwvdxeKSFqpLJYQ1_/view](https://drive.google.com/file/d/10Zy3fMH5zdNMaNAfwvdxeKSFqpLJYQ1_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

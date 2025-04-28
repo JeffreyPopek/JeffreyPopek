@@ -2,7 +2,7 @@
 
 I'm currently a fourth-year student at Champlain College, working towards my Bachelor of Science degree in Game Programming. My fascination with making games started back in high school when I took my first game programming class. Even though I didn't have much technical know-how, my love for video games inspired me to learn more. This journey led me to Champlain College, where I'm chasing my dream of creating games.
 
-- 🔭 I’m currently working on <a href="https://jeffreypopek.dev/poly-vinyl-pests.html" target="_blank">Poly-Vinyl Pests!</a>
+- 🔭 I’m currently working on <a href="https://store.steampowered.com/app/3554420/PolyVinyl_Pests/" target="_blank">Poly-Vinyl Pests!</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://jeffreypopek.dev/" target="_blank">https://jeffreypopek.dev</a>
 

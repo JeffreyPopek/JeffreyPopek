@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jeffrey 👋</h1>
 
-I'm currently a fourth-year student at Champlain College, working towards my Bachelor of Science degree in Game Programming. My fascination with making games started back in high school when I took my first game programming class. Even though I didn't have much technical know-how, my love for video games inspired me to learn more. This journey led me to Champlain College, where I'm chasing my dream of creating games.
+I'm a recent graduate from Champlain College with a Bachelor of Science degree in Game Programming. My fascination with making games started back in high school when I took my first game programming class. Even though I didn't have much technical know-how, my love for video games inspired me to learn more. This journey led me to Champlain College, where I'm chasing my dream of creating games.
 
 - 🔭 I’m currently working on <a href="https://store.steampowered.com/app/3554420/PolyVinyl_Pests/" target="_blank">Poly-Vinyl Pests!</a>
 

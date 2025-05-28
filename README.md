@@ -8,9 +8,10 @@ I'm a recent graduate from Champlain College with a Bachelor of Science degree i
 
 - 📫 How to reach me **jeffreypopek@gmail.com**
 
+
 ### 🎬 Programming Demo Reel
 
-[![Jeffrey Popek Demo Reel 2025](https://i.imgur.com/EgVHjDH.png)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=PZU84faLIZc))
+[![Jeffrey Popek Demo Reel 2025]]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=PZU84faLIZc))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

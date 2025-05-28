@@ -10,7 +10,7 @@ I'm a recent graduate from Champlain College with a Bachelor of Science degree i
 
 ### 🎬 Programming Demo Reel
 
-[![Jeffrey Popek Demo Reel 2025]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg](https://i.imgur.com/EgVHjDH.png))]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=PZU84faLIZc))
+[![Jeffrey Popek Demo Reel 2025]([https://i.imgur.com/EgVHjDH.png]))]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID](https://www.youtube.com/watch?v=PZU84faLIZc))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

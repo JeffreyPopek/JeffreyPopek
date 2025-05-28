@@ -14,7 +14,7 @@ I'm a recent graduate from Champlain College with a Bachelor of Science degree i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jeffreypopek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeffreypopek/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeffreypopek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jeffreypopek/" height="30" width="40" /></a>
 <a href="https://discord.gg/_jeffrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_jeffrey" height="30" width="40" /></a>
 </p>
 

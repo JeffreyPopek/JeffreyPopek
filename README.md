@@ -4,7 +4,7 @@ I'm a recent graduate from Champlain College with a Bachelor of Science degree i
 
 - 🔭 I’m currently working on <a href="https://store.steampowered.com/app/3554420/PolyVinyl_Pests/" target="_blank">Poly-Vinyl Pests!</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://jeffreypopek.dev/" target="_blank">https://jeffreypopek.dev</a>
+- 👨‍💻 View more of my work at <a href="https://jeffreypopek.dev/" target="_blank">https://jeffreypopek.dev</a>
 
 - 📫 How to reach me **jeffreypopek@gmail.com**
 
